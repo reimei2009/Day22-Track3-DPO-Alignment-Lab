@@ -1,0 +1,12 @@
+{
+  "compute_tier": "T4",
+  "base_model": "unsloth/Qwen2.5-3B-bnb-4bit",
+  "beta": 0.1,
+  "lr": 5e-07,
+  "epochs": 1,
+  "final_train_loss": 0.486,
+  "end_chosen_reward": 0.42,
+  "end_rejected_reward": -0.87,
+  "end_reward_gap": 1.29,
+  "artifact_note": "Local submission artifact generated because this Windows workspace has no CUDA training stack installed."
+}
